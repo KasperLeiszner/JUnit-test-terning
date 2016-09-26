@@ -1,4 +1,4 @@
-# Generel
+# Generelt
 Okay drenge! LÆS FORHELVEDE :D
 Det er vigtigt at i ikke committer noget som helst til master branchen!
 Lav en branch selv og når i er færdige lav en merge request mellem jeres branch og masteren.
